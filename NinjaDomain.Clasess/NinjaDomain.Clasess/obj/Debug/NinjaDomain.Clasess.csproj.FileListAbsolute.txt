@@ -1,0 +1,4 @@
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.Clasess\bin\Debug\NinjaDomain.Clasess.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.Clasess\bin\Debug\NinjaDomain.Clasess.pdb
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.Clasess\obj\Debug\NinjaDomain.Clasess.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.Clasess\obj\Debug\NinjaDomain.Clasess.pdb
