@@ -1,0 +1,14 @@
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\NinjaDomain.Clasess.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\NinjaDomain.Clasess.pdb
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

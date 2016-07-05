@@ -1,0 +1,13 @@
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Clasess.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Clasess.pdb
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+C:\Users\ahernandez\documents\visual studio 2013\Projects\NinjaDomain.Clasess\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
